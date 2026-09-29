@@ -17,7 +17,7 @@ Binder to let anyone run them. Just fork this repo, put your notebooks in the
 `notebooks` directory, and modify this `README.rst` to your needs. In
 particular, you probably want to modify this line::
 
-    :target: https://mybinder.org/v2/gh/...
+    :target: https://mybinder.org/v2/gh/GregSageBinderCopy
 
 with `...` replaced by the name of your forked repository. This makes the Binder
 badge use your repo to create the computing environment.
