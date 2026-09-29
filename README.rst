@@ -6,7 +6,7 @@ To access a computing environment created by `Binder <http://mybinder.org>`_
 using the SageMath kernel, click on this badge
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/sagemath/sage-binder-env/master
+ :target: https://mybinder.org/v2/gh/GregSageBinderCopy
 
 
 An example Binder repo for SageMath
